@@ -36,8 +36,3 @@ Computação em nuvem é o fornecimento de serviços de computação pela intern
 
 ## Microsoft Azure  
 Durante a aula, exploramos a **Azure** e suas principais funcionalidades, entendendo como a plataforma oferece soluções em **infraestrutura, hospedagem, banco de dados, segurança, escalabilidade e serviços de nuvem** que podem ser utilizados em diversos contextos de negócios.  
-
----
-
-✍️ **Autor:** [Seu Nome]  
-📚 Curso: Azure - DIO
